@@ -1,5 +1,5 @@
 # Monitoring Jenkins using Metrics Plugin and Zabbix
-## Many thanks to #Luis Cavalcante ## `https://github.com/luisffc` for his work on the initial codes.
+## Many thanks to Luis Cavalcante (`https://github.com/luisffc`) for his work on the initial codes.
 
 
 ## This solution is composed by three parts
